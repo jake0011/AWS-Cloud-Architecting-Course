@@ -861,7 +861,7 @@ This section explores **Amazon API Gateway** as a key component for extending se
 
 ---
 
-# Applying AWS Well-Architected Framework Principles to Serverless Architectures and Microservices
+## Section 8: Applying AWS Well-Architected Framework Principles to Serverless Architectures and Microservices
 This section explores how to apply the **AWS Well-Architected Framework** principles, through the **Serverless Applications Lens**, to design robust, secure, and cost-effective serverless architectures and microservices. It highlights best practices from key pillars relevant to serverless applications, with examples contextualized to the fictional café scenario.
 
 - **AWS Well-Architected Serverless Applications Lens**:
