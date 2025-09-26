@@ -207,7 +207,9 @@ Three regular café visitors—friends of Sofía and Nikhil—are AWS consultant
 
 Throughout the challenge labs, you help Frank and Martha evolve their cloud architecture. Starting from a simple static website, the architecture grows into a secure, scalable, and resilient cloud-based application. Here's a summary of each version and its purpose:
 
-VersionBusiness ReasonTechnical UpdateV1Launch a basic websiteHost a static site on Amazon S3| V2 | Add dynamic content and online ordering | Deploy web app and database on Amazon EC2 |
+|Version |Business Reason for Update| Technical Requirements and Architecture Update| 
+| V1 | Launch a basic website |Host a static site on Amazon S3|
+| V2 | Add dynamic content and online ordering | Deploy web app and database on Amazon EC2 |
 | V3 | Reduce database maintenance and improve security | Separate web and database layers; migrate database to Amazon RDS in a private subnet |
 | V4 | Strengthen web application security | Use Amazon VPC to configure public and private subnets |
 | V5 | Handle increased traffic and improve availability | Add load balancer, enable auto scaling, distribute resources across two Availability Zones |
